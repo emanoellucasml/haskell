@@ -1,2 +1,4 @@
-soma x y = x + y
-soma 10 2
+hipo x y = sqrt(k1 + k2)
+											where
+											k1 = x * x
+											k2 = y * y
